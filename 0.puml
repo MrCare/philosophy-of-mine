@@ -1,0 +1,26 @@
+@startuml
+!theme toy
+skinparam {
+    ComponentStyle rectangle
+    ComponentBackgroundColor #E8F4FD
+    ComponentBorderColor #2E86AB
+    ComponentBorderThickness 2
+    ComponentFontSize 16
+    ComponentFontStyle bold
+    ArrowColor #2E86AB
+    ArrowThickness 2
+    ArrowFontSize 12
+    ArrowFontStyle italic
+}
+
+' 定义三个组件
+[TRUTH] as truth
+[LOVE] as love
+[POWER] as power
+
+' 连接关系形成三角形
+truth <--> love : Oneness
+love <--> power : Courage
+power <--> truth : Authority
+
+@enduml
