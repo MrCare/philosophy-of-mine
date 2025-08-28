@@ -73,7 +73,27 @@
 
 ## 推荐书籍
 
-1. 永恒的终结
-2. 禅与摩托车维修艺术
-3. 悉达多
-3. Personal Development for smart people
+1. 永恒的终结：长生不老，众生六道毁就毁在这四个字上！
+
+![alt text](image-6.png)
+
+2. 禅与摩托车维修艺术：什么是好？其实你我自然知道
+
+![alt text](image-7.png)
+
+3. 悉达多：放下屠刀，立地成佛
+
+![alt text](image-8.png)
+
+3. Personal Development for smart people：吾日三省吾身：Truth Love Power
+
+![alt text](image-9.png)
+
+## 推荐电影
+1. 死亡诗社（春风化雨）：Carpe Diem！ My Captain！
+
+![alt text](image-4.png)
+
+2. Rudy （追梦赤子心）：When people say dreams never come true，tell them about Rudy
+
+![alt text](image-5.png)
